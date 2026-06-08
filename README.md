@@ -1,16 +1,15 @@
-## Hi there 👋
+# Software Engineer | Frontend Architecture | Performance Optimization
 
-<!--
-**Ayaalmadhon2004/Ayaalmadhon2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build high-performance frontend architectures and offline-first systems where speed and reliability are critical. I specialize in advanced web development, focusing on React.js and Next.js rendering patterns (SSR, SSG, ISR) and systematic performance optimization to accommodate low-bandwidth environments. 
 
-Here are some ideas to get you started:
+My recent work includes co-founding InvoiceChamps, a UK-based fintech platform, and developing Gaza Pulse, a full-stack platform with a real-time queue monitoring system. I also build tools for other developers, currently working on a VS Code extension and environment validation libraries. I combine a strong foundation in algorithmic problem-solving with a focus on scalable system design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Core stack: JavaScript, TypeScript, React.js, Next.js, Node.js.
+
+## Contact Information
+
+If you have any questions, suggestions, or collaboration opportunities, please feel free to reach out to me.
+
+* Name: Aya Ahmad Almadhon
+* Email: aya.alaasel123@gmail.com
+* LinkedIn:linkedin.com/in/aya-almadhon2025
