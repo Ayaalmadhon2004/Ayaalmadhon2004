@@ -1,15 +1,21 @@
-# Software Engineer | Frontend Architecture | Performance Optimization
+Aya Ahmad Almadhon
+Software Engineer | Frontend Developer | React & Next.js
+I am a Computer Systems Engineering graduate and Frontend Specialist with 2 years of experience in high-performance React and Next.js development. My focus lies in building scalable frontend architectures and robust offline-first systems where speed and reliability are critical. I specialize in advanced web development, leveraging rendering patterns (SSR, SSG, ISR) and optimizing web architecture via TanStack Query and SEO-driven strategies to consistently boost application performance. Currently, I am engineering full-stack solutions with Supabase and Prisma to bridge the gap between complex system logic and a seamless user experience, ensuring high efficiency even in low-bandwidth environments.
 
-I build high-performance frontend architectures and offline-first systems where speed and reliability are critical. I specialize in advanced web development, focusing on React.js and Next.js rendering patterns (SSR, SSG, ISR) and systematic performance optimization to accommodate low-bandwidth environments. 
+Core Stack
+Languages: JavaScript (ES6+), TypeScript
 
-My recent work includes co-founding InvoiceChamps, a UK-based fintech platform, and developing Gaza Pulse, a full-stack platform with a real-time queue monitoring system. I also build tools for other developers, currently working on a VS Code extension and environment validation libraries. I combine a strong foundation in algorithmic problem-solving with a focus on scalable system design.
+Frontend: React.js, Next.js, Tailwind CSS
 
-Core stack: JavaScript, TypeScript, React.js, Next.js, Node.js.
+Backend & Database: Node.js, Supabase, Prisma
 
-## Contact Information
+Architecture: SSR/SSG/ISR Patterns, TanStack Query, SEO Optimization
 
+Contact Information
 If you have any questions, suggestions, or collaboration opportunities, please feel free to reach out to me.
 
-* Name: Aya Ahmad Almadhon
-* Email: aya.alaasel123@gmail.com
-* LinkedIn:linkedin.com/in/aya-almadhon2025
+Name: Aya Ahmad Almadhon
+
+Email: aya.alaasel123@gmail.com
+
+LinkedIn: linkedin.com/in/aya-almadhon2025
