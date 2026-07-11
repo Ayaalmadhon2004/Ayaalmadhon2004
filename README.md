@@ -1,5 +1,5 @@
 # Aya Ahmad Almadhon
-## Software Engineer | Frontend Developer | React & Next.js
+## Software Engineer | Full stack Developer | React & Next & Node.js
 
 I am a Computer Systems Engineering graduate and Frontend Specialist in high-performance React and Next.js development. **Currently, I am expanding my professional experience as a Software Engineering Intern at LinkedTrust**, where I contribute to building scalable frontend architectures and robust, high-impact web solutions.
 
