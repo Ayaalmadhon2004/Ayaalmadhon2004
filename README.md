@@ -12,12 +12,3 @@ My focus lies in developing seamless user experiences where speed and reliabilit
 * **Frontend:** React.js, Next.js, Tailwind CSS
 * **Backend & Database:** Node.js, Supabase, Prisma
 * **Architecture:** SSR/SSG/ISR Patterns, TanStack Query, SEO Optimization, PWA Development
-
----
- Contact Information
- 
-I am always open to discussing new projects, professional growth, or collaboration opportunities.
-* **Portfolio:** : https://portfolio-of-aya.vercel.app/
-* **Email:** [aya.alaasel123@gmail.com](mailto:aya.alaasel123@gmail.com)
-* **LinkedIn:** [linkedin.com/in/aya-almadhon2025](https://www.linkedin.com/in/aya-almadhon2025)
-* **GitHub:** [github.com/Ayaalmadhon2004](https://github.com/Ayaalmadhon2004)
