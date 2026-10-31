@@ -2,16 +2,16 @@
 
 # Aya Almadhon
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=2563EB&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Node.js;Building+software+from+real-world+problems" alt="Full Stack Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=2F52A8&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Node.js;Building+software+from+real-world+problems" alt="Full Stack Developer" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio--of--aya.vercel.app-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-of-aya.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio--of--aya.vercel.app-1D3170?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-of-aya.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aya--almadhon2025-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aya-almadhon2025)
-[![Email](https://img.shields.io/badge/Email-aya.alaasel123@gmail.com-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aya.alaasel123@gmail.com)
+[![Email](https://img.shields.io/badge/Email-aya.alaasel123@gmail.com-17285A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aya.alaasel123@gmail.com)
 
-![Based in Palestine](https://img.shields.io/badge/Based_in-Palestine-2563EB?style=flat-square)
-![Status](https://img.shields.io/badge/Open_to-new_opportunities-1D4ED8?style=flat-square)
+![Based in Palestine](https://img.shields.io/badge/Based_in-Palestine-1D3170?style=flat-square)
+![Status](https://img.shields.io/badge/Open_to-new_opportunities-17285A?style=flat-square)
 
 </div>
 
