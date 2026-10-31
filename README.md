@@ -19,6 +19,8 @@
 
 ## About me
 
+You can see my work, projects and more at my portfolio: **[portfolio-of-aya.vercel.app](https://portfolio-of-aya.vercel.app/)**
+
 I'm a Full Stack Developer and a Computer Systems Engineering student at **Al-Azhar University** (graduating January 2027). I like turning messy, real-world problems into software that is fast, reliable and actually useful to the people who depend on it.
 
 Most of my work is **React, Next.js, TypeScript and Node.js**. On the backend I build APIs with Express and Prisma. On the frontend I use TanStack Query to keep the UI in sync with the data behind it.
@@ -106,7 +108,7 @@ A Node.js / TypeScript CLI I co-developed that audits projects for **leaked secr
 
 ## Let's connect
 
-I'm always happy to talk about new projects, collaborations, or just web performance. The easiest ways to reach me are [email](mailto:aya.alaasel123@gmail.com) or [LinkedIn](https://linkedin.com/in/aya-almadhon2025).
+I'm always happy to talk about new projects, collaborations, or just web performance. The easiest ways to reach me are [email](mailto:aya.alaasel123@gmail.com) or [LinkedIn](https://linkedin.com/in/aya-almadhon2025), and my full portfolio is at [portfolio-of-aya.vercel.app](https://portfolio-of-aya.vercel.app/).
 
 <div align="center">
 
