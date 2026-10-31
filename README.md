@@ -1,22 +1,23 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Aya+Almadhon+%F0%9F%91%8B;Full+Stack+Developer;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Node.js;Building+software+from+real-world+problems" alt="Typing intro" />
+# Aya Almadhon
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=2F52A8&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Node.js;Building+software+from+real-world+problems" alt="Full Stack Developer" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio--of--aya.vercel.app-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-of-aya.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio--of--aya.vercel.app-1D3170?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-of-aya.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aya--almadhon2025-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aya-almadhon2025)
-[![Email](https://img.shields.io/badge/Email-aya.alaasel123@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aya.alaasel123@gmail.com)
+[![Email](https://img.shields.io/badge/Email-aya.alaasel123@gmail.com-17285A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aya.alaasel123@gmail.com)
 
-![Profile views](https://komarev.com/ghpvc/?username=Ayaalmadhon2004&label=Profile+views&color=8B5CF6&style=flat-square)
-![Location](https://img.shields.io/badge/Based_in-Palestine_🇵🇸-16A34A?style=flat-square)
-![Status](https://img.shields.io/badge/Open_to-new_opportunities-F59E0B?style=flat-square)
+![Based in Palestine](https://img.shields.io/badge/Based_in-Palestine-1D3170?style=flat-square)
+![Status](https://img.shields.io/badge/Open_to-new_opportunities-17285A?style=flat-square)
 
 </div>
 
 ---
 
-## 👩‍💻 About me
+## About me
 
 I'm a Full Stack Developer and a Computer Systems Engineering student at **Al-Azhar University** (graduating January 2027). I like turning messy, real-world problems into software that is fast, reliable and actually useful to the people who depend on it.
 
@@ -24,14 +25,14 @@ Most of my work is **React, Next.js, TypeScript and Node.js**. On the backend I 
 
 What I enjoy most:
 
-- 🔍 Auditing **Web Vitals** and chasing down whatever makes a page feel slow
-- 🛠️ Turning fragile systems into stable ones, even when the pressure is on
-- ⚙️ Cleaning up **CI/CD** so releases stop being scary
-- 🌍 Building for people with weak connections and limited resources, and shipping in both Arabic and English
+- Auditing **Web Vitals** and chasing down whatever makes a page feel slow
+- Turning fragile systems into stable ones, even when the pressure is on
+- Cleaning up **CI/CD** so releases stop being scary
+- Building for people with weak connections and limited resources, and shipping in both Arabic and English
 
 ---
 
-## 🧰 Tech stack
+## Tech stack
 
 <div align="center">
 
@@ -76,23 +77,23 @@ I also work with SSR / SSG / ISR rendering, SEO, Core Web Vitals and performance
 
 ---
 
-## 🚀 Featured projects
+## Featured projects
 
-### 🍽️ [Food Nutrition & Queue Management](https://gaza-food-project.vercel.app/)
+### [Food Nutrition & Queue Management](https://gaza-food-project.vercel.app/)
 A platform built around food distribution problems in Gaza. It has **real-time queue monitoring**, so people spend less time physically waiting. Supabase handles auth and Prisma models the data for long-term meal tracking. The interface is bilingual (**Arabic / English**) using i18n middleware.
 `Next.js` · `Supabase` · `Prisma` · `i18n`
 
-### 🏥 [Hospi Link Dashboard](https://hospi-link-two.vercel.app/)
+### [Hospi Link Dashboard](https://hospi-link-two.vercel.app/)
 A full-stack hospital management dashboard covering **bed allocation, patient admissions and incident tracking**. It has role-based CRUD modules for real-time record management, on top of a well-structured API.
 `React` · `Node.js` · `Express`
 
-### 🛡️ [Muraqib](https://github.com/Muraqib-Core/muraqib)
+### [Muraqib](https://github.com/Muraqib-Core/muraqib)
 A Node.js / TypeScript CLI I co-developed that audits projects for **leaked secrets, vulnerable dependencies, missing HTTP security headers, Docker misconfigurations and performance issues**. It ships with GitHub Actions CI, Vitest tests, and Git hooks that block commits containing secrets.
 `TypeScript` · `Node.js` · `GitHub Actions` · `Vitest`
 
 ---
 
-## 💼 Experience
+## Experience
 
 | When | Where | What I did |
 |---|---|---|
@@ -103,25 +104,11 @@ A Node.js / TypeScript CLI I co-developed that audits projects for **leaked secr
 
 ---
 
-## 📊 GitHub stats
-
-<div align="center">
-
-![Aya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayaalmadhon2004&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayaalmadhon2004&layout=compact&theme=radical&hide_border=true)
-
-![Streak](https://streak-stats.demolab.com?user=Ayaalmadhon2004&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 📫 Let's connect
+## Let's connect
 
 I'm always happy to talk about new projects, collaborations, or just web performance. The easiest ways to reach me are [email](mailto:aya.alaasel123@gmail.com) or [LinkedIn](https://linkedin.com/in/aya-almadhon2025).
 
 <div align="center">
 
-*"Turning complex problems into fast, scalable solutions."* ✨
-
+*"Turning complex problems into fast, scalable solutions."*
 </div>
