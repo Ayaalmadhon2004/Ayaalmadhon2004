@@ -85,13 +85,20 @@ I also work with SSR / SSG / ISR rendering, SEO, Core Web Vitals and performance
 A platform built around food distribution problems in Gaza. It has **real-time queue monitoring**, so people spend less time physically waiting. Supabase handles auth and Prisma models the data for long-term meal tracking. The interface is bilingual (**Arabic / English**) using i18n middleware.
 `Next.js` · `Supabase` · `Prisma` · `i18n`
 
-### [Hospi Link Dashboard](https://hospi-link-two.vercel.app/)
-A full-stack hospital management dashboard covering **bed allocation, patient admissions and incident tracking**. It has role-based CRUD modules for real-time record management, on top of a well-structured API.
-`React` · `Node.js` · `Express`
+### [HospiLink: Hospital Management Platform](https://hospi-link-two.vercel.app/)
+<a href="https://hospi-link-two.vercel.app/"><img src="https://raw.githubusercontent.com/Ayaalmadhon2004/HospiLink/main/docs/images/overview.png" alt="HospiLink dashboard" width="720" /></a>
+
+A full-stack hospital platform that covers **patients, beds and wards, live vitals monitoring, appointments, pharmacy stock, billing and ambulance dispatch**, with Arabic / English (RTL) and four user roles. The interesting part is the rules underneath: a bed can never be double-booked, stock can never go negative, invoice numbers never skip, and one hospital can never see another's data. Each rule is enforced in the database and proven by tests, over **1,200+ unit tests plus integration and end-to-end suites on a real PostgreSQL**.
+`React 19` · `Express 5` · `Prisma` · `PostgreSQL` · `Socket.io` · `Playwright`
+[Read the README](https://github.com/Ayaalmadhon2004/HospiLink#readme)
 
 ### [Muraqib](https://github.com/Muraqib-Core/muraqib)
 A Node.js / TypeScript CLI I co-developed that audits projects for **leaked secrets, vulnerable dependencies, missing HTTP security headers, Docker misconfigurations and performance issues**. It ships with GitHub Actions CI, Vitest tests, and Git hooks that block commits containing secrets.
 `TypeScript` · `Node.js` · `GitHub Actions` · `Vitest`
+
+### More projects
+
+[Recruitment Intelligence](https://recruitmentintellgent.vercel.app) · [Yosal Company](https://yosal-company.vercel.app) · [Florya Menu](https://florya-menu-eight.vercel.app) · [E-commerce](https://ecommerce-one-teal-22.vercel.app) · [Social Media](https://social-media-psi-red.vercel.app) · [Portfolio source](https://github.com/Ayaalmadhon2004/portfolio-of-aya-)
 
 ---
 
