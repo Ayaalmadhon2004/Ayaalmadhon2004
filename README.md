@@ -86,7 +86,6 @@ A platform built around food distribution problems in Gaza. It has **real-time q
 `Next.js` · `Supabase` · `Prisma` · `i18n`
 
 ### [HospiLink: Hospital Management Platform](https://hospi-link-two.vercel.app/)
-<a href="https://hospi-link-two.vercel.app/"><img src="https://raw.githubusercontent.com/Ayaalmadhon2004/HospiLink/main/docs/images/overview.png" alt="HospiLink dashboard" width="720" /></a>
 
 A full-stack hospital platform that covers **patients, beds and wards, live vitals monitoring, appointments, pharmacy stock, billing and ambulance dispatch**, with Arabic / English (RTL) and four user roles. The interesting part is the rules underneath: a bed can never be double-booked, stock can never go negative, invoice numbers never skip, and one hospital can never see another's data. Each rule is enforced in the database and proven by tests, over **1,200+ unit tests plus integration and end-to-end suites on a real PostgreSQL**.
 `React 19` · `Express 5` · `Prisma` · `PostgreSQL` · `Socket.io` · `Playwright`
